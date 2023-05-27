@@ -1,5 +1,0 @@
-TO DO =>
------------
-1.rem and em
-
-2,height width of image using vw,px and % 
